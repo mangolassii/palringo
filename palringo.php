@@ -162,7 +162,7 @@
                                                 class="btn btn-block btn-primary">Sign In</button>
                                     </div>
                                     <div class="form-group">
-                                        <a href="/hi/in/register"
+                                        <a href="xyz.php"
                                            class="text-center">Register</a>
                                     </div>
                                     <div class="form-group">
